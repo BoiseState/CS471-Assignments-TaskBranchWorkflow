@@ -12,5 +12,5 @@ Work in progress for a task/bug is denoted by :running_man:
 
 ## Back end:
 - ...
-- [ ] :running_man: task #99 (@developerC)
+- [x] task #99 (@developerC)
 - ...
